@@ -22,5 +22,5 @@ insert into user(username,password) values('2222','2222');
 insert into msg(uid,title,content,ip,date) values('1111','你好','我是1111','127.0.0.1','1464082630');
 insert into msg(uid,title,content,ip,date) values('2222','Hi','我是2222','127.0.0.1','1464082630');
 
-grant all privileges on messages.* to msg@localhost identified by '217977';
+grant all privileges on messages.* to msg@localhost identified by '123456';
 flush privileges;
