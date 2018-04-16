@@ -4,7 +4,7 @@ return array(
 	'DB_HOST' => 'localhost',
 	'DB_NAME' => 'messages', 
 	'DB_USER' => 'msg',
-	'DB_PASS' => '217977',
+	'DB_PASS' => '123456',
 	'DB_CHARSET' => 'utf8',
 );
 /*
