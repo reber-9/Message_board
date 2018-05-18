@@ -1,2 +1,2 @@
 # Message_board
-留言板
+留言板.
