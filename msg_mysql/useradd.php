@@ -1,4 +1,8 @@
 <?php
+/*
+code by reber
+email:1070018473@qq.com
+*/
 	session_start();
 	header("Content-Type:text/html; charset=utf-8"); 
 	$config = require('./config.inc.php');

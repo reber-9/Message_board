@@ -1,5 +1,8 @@
 <?php
-
+/*
+code by reber
+email:1070018473@qq.com
+*/
 	class mysql {
 		protected $host;
 		protected $user;

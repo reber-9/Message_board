@@ -1,4 +1,8 @@
 <?php
+/*
+code by reber
+email:1070018473@qq.com
+*/
 session_start();
 ini_set('date.timezone', 'Asia/Shanghai');
 include("users.php");

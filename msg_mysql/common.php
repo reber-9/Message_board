@@ -1,4 +1,8 @@
 <?php
+/*
+code by reber
+email:1070018473@qq.com
+*/
 	function filter($str)
 	{
 		$str = htmlspecialchars($str,ENT_QUOTES);

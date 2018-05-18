@@ -1,4 +1,8 @@
 <?php
+/*
+code by reber
+email:1070018473@qq.com
+*/
 $users = array(
 	"1111" => array("id" => 1, "pass" => "1111"),
 	"2222" => array("id" => 2, "pass" => "2222"),

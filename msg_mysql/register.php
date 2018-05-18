@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- code by reber
+email:1070018473@qq.com -->
 	<meta charset="UTF-8">
 	<title>注册</title>
 </head>
